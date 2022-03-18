@@ -1,3 +1,3 @@
 # CodeWars
 
-In this repository I add my coding practices from codewars.
+ In this repository, I add my coding practices from Codewars.
